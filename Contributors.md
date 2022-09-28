@@ -102,6 +102,7 @@
 - [Jessica Chioma](https://github.com/AugustHottie)
 - [Akash Shirale](https://github.com/akashshirale14)
 - [Lawrence Aneshimokha](https://github.com/Anelawrence)
+- [Pax Nguyen]
 - [Anakhe Ajayi](https://github.com/AAnakhe)
 - [Sinduri Gundu](https://github.com/Sinduri11)
 - [Madhav Gupta](https://github.com/madhavgupta07)
